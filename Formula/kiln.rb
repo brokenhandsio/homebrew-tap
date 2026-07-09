@@ -3,9 +3,9 @@
 class Kiln < Formula
   desc "Documentation website generator written in Swift"
   homepage "https://github.com/brokenhandsio/kiln"
-  url "https://github.com/brokenhandsio/kiln/releases/download/v1.8.1/kiln-1.8.1-macos-arm64.tar.gz"
-  sha256 "58c607f5a01dec591b03381156ec99c4efd80b5b18068af156fc2e1fef81f4a4"
-  version "1.8.1"
+  url "https://github.com/brokenhandsio/kiln/releases/download/v1.8.2/kiln-1.8.2-macos-arm64.tar.gz"
+  sha256 "fe67860088f85241fbae28013217fc52f3e676b465b4cc0a010a8d8aa60a664b"
+  version "1.8.2"
   license "MIT"
 
   # The release binary is built for Apple Silicon only.
